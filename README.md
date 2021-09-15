@@ -1,6 +1,8 @@
 # predicting-Yelp-star-ratings
 Using Multinomial Logistic Regressions to predict star ratings for restaurants in Arizona.
 
+# Summary of the project 
+
 **Scope:** In this analysis we compare the performance of two different multinomial logistic regression models
 in predicting star ratings for restaurant businesses in Arizona. We then use the best model to
 identify the most important features that contribute to higher predictive accuracy of the ratings
