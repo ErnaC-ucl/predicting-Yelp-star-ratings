@@ -17,5 +17,5 @@ potentially because in PCA does not work well with categorical data.
 
 # This repo consists of:
 - A pdf report summarising the methodology and findings
-- A Jupyter Notebook for data pre-processing and correlation analysis
+- A Jupyter Notebook for data pre-processing, exploratory data analysis and correlation analysis
 - Matlab code for multinomial LR analysis.
